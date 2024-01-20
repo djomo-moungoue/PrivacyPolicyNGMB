@@ -1,1 +1,1 @@
-# NgenmbhiPrivacyPolicy
+# PrivacyPolicyNGMB
