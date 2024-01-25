@@ -12,6 +12,8 @@
 |METHODS|VerbName-NounName|lowerCamelCase|lowerCamelCase|lowercase_with_underscores|
 |COMPONENTS||lowerCamelCase||lowercase_with_underscores|
 |PRIVATE MEMBER||_lowerCamelCase||_lowercase_with_underscores|
+|SOURCE CODE COMMENTS|#OneLine , \<#MultiLines#\>|//OneLine , /\*Multilines\*/|//OneLine , /\*Multilines\*/|#OneLine , """MultiLines""" , '''MultiLines'''|
+|DOCUMENTATION COMMENTS||/\*\*DocumentationComment\*/|///DocumentationComment|"""DocumentationComment"""|
 |SOURCES|[PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/developer/cmdlet/windows-powershell-cmdlet-concepts?view=powershell-7.4)|[JavaScript]()|[Dart](https://dart.dev/effective-dart/style)|[Python]()|
 
 
