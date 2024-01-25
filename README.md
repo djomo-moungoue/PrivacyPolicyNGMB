@@ -3,7 +3,7 @@
 # Naming Convention of Programming Languages
 
 |Property|PowerShell|JavaScript|Flutter / Dart|Pyhon|
-|---|---|---|---|
+|---|---|---|---|---|
 |PACKAGES, SOURCE FILES, DIRECTORIES|UpperCamelCase.ps1|UpperCamelCase.js (frontend) lowercase-with-scores.js (backend)|lowercase_with_underscores.dart|lowercase_with_underscores.py|
 |CLASSES|VerbName-NounName|UpperCamelCase|UpperCamelCase|UpperCamelCase|
 |CONSTANTS|UPPERCASE|UPPERCASE|lowerCamelCase|UPPERCASE|
